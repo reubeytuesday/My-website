@@ -1,0 +1,14 @@
+.twins{
+	Background: brown;
+	padding: 1rem;
+}
+.redroom{
+	background-image: url('images/redroom.jpg');
+	    font-size: 15rem;
+    color: white;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem;
+
+}
